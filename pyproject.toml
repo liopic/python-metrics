@@ -1,0 +1,10 @@
+[tool.ruff.lint]
+select = [
+    "F",
+    "E",
+    "W",
+    "I",
+    "PL",
+]
+
+pylint.max-statements = 25
